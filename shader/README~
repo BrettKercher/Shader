@@ -1,0 +1,12 @@
+Name: Brett Kercher
+UTCS: bkercher
+EID:  bmk627
+
+Usage:
+I used the given keyboard commands and menu options
+--------------------------------------------------------
+I implemented everything required for the base project (shaders 1, 2, 4, 5, and vert shader)
+
+Also implemented bumpy diffuse (3) and bumped and lit (6)
+
+The reflection shaders (7, 8, 9) do not work
